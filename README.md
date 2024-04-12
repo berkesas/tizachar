@@ -15,7 +15,7 @@ The number of commands and their purposes are up to you. It depends on your crea
 5. Enter the ID or Code of the command you want to run. The program will run and the commands window will be hidden back to the system tray.
 
 # Future
-Plans for the future include
+Todo list
 - making display window fit in the screen size
 - increase localizibality/support for multiple languages
 - improving general usability
